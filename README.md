@@ -9,7 +9,9 @@
   <a href="https://youtube.com/@shohabbosdev">
       <img scr="https://img.shields.io/badge/youtube-white?logo=youtube&logoColor=red" alt=" bu yer youtube linki bor"/>
   </a>
-  <a href="">
+  <a href="https://instagram.com/s.sohibovna">
       <img src="https://img.shields.io/badge/instagram-red?logo=instagram&logoColor=white" alt="bu yerda instagram linli bor"/>
+  </a>
+  <a href=" https://facebook.com/shohabbosdev">
       <img scr="https://img.shields.io/badge/facebook-white?logo=facebook&logoColor=blue" alt="bu yerda facebook bor"/>
 </div>
