@@ -14,4 +14,5 @@
   </a>
   <a href=" https://facebook.com/shohabbosdev">
       <img scr="https://img.shields.io/badge/facebook-white?logo=facebook&logoColor=blue" alt="bu yerda facebook bor"/>
+  </a>
 </div>
