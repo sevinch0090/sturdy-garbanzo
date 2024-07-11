@@ -11,7 +11,7 @@
   </a>
   <a href="https://instagram.com/s.sohibovna">
     <img src="https://img.shields.io/badge/instagram-red?logo=instagram&logoColor=white" alt="Bu instagram badges">
-  </a>
+  </a><br>
   <img src="https://komarev.com/ghpvc/?username=freedom-1&label=PROFILNI+KO'RISHLAR+SONI" alt=""/>
 </div>
 <h1 align="center">
